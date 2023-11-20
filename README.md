@@ -1,5 +1,4 @@
 # tunable-payoff-s-loner-with-reinforcement-learning
-# tunable-payoff-s-loner-with-reinforcement-learning
 Imitation and replication have emerged as a paradigm in numerous studies that explore the evolution of cooperative behavior. Since they embrace the essence of natural selection, it is widely recognized in exploring the evolution of biological behaviors. However, it is not easy to express the way individuals select and optimize in these simple and elegant ways in the complex and variable interactive environments. Currently, reinforcement learning is widely used in the study of strategy updating dynamics and agent learning processes in game theory. Therefore, we introduce the Q-learning algorithms into the voluntary public goods game to explore the impact of cooperative evolution.
 
 The source code of paper "Exploring cooperative evolution with tunable payoff's loners using reinforcement learning" at Chaos, Solitons & Fractals.
@@ -24,7 +23,8 @@ pip install -r requirements.txt
 python tunable payoff's loner with reinforcement learning.py
 ```
 ## Results
-<img src="img/tunable1.png">
+<img src="./imgs/thumbnail.png" width="60%">
+<img src="./imgs/thumbnail.png" width="60%">
 
 ## Citation
  Please cite this work if you find it useful:
