@@ -23,7 +23,8 @@ pip install -r requirements.txt
 python tunable payoff's loner with reinforcement learning.py
 ```
 ## Results
-![输入图片描述](README_md_files/4b4ee030-8783-11ee-b674-51e2574c63df.jpeg?v=1&type=image)![输入图片描述](README_md_files/4f3e69e0-8783-11ee-b674-51e2574c63df.jpeg?v=1&type=image)
+![输入图片描述](README_md_files/4b4ee030-8783-11ee-b674-51e2574c63df.jpeg?v=1&type=image)
+![输入图片描述](README_md_files/4f3e69e0-8783-11ee-b674-51e2574c63df.jpeg?v=1&type=image)
 
 ## Citation
  Please cite this work if you find it useful:
