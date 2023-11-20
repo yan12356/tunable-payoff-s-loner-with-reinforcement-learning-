@@ -24,7 +24,8 @@ pip install -r requirements.txt
 python tunable payoff's loner with reinforcement learning.py
 ```
 ## Results
-<img src="imgs/tunable1.png" width="60%">
+<img src="imgs/tunable1.png">
+
 ## Citation
  Please cite this work if you find it useful:
 ```
